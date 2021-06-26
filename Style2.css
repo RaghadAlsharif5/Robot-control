@@ -1,0 +1,57 @@
+
+body{
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+  background-size:cover;}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 45PX;
+    text-align: center;
+    color:rgb(24, 21, 21);
+    margin-top: 2%;
+    margin-bottom: 4%;
+    color: white;
+    
+    }
+    
+.button
+{
+    border-radius: 4px;
+    margin-left: 30%;
+    background-color:white;
+    color: black;
+    border: 2px solid rgb(15, 15, 199); 
+    height: 100%;
+    width: 40%;
+    padding: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+  
+
+}
+.button2{
+   
+margin: auto;
+   
+margin-top: 4%;
+margin-bottom: 4%;
+width: 20%;
+padding: 1.5%;
+color: black;
+border: 2px solid rgb(15, 15, 199);
+font-family: 'Courier New', Courier, monospace;
+font-weight: bolder;
+border-radius: 4px;
+
+}
+#Stop{
+    border: 2px solid rgb(230, 76, 76); 
+}
+.button:hover ,.button2:hover
+{
+    background-color:  rgb(221, 221, 226);
+    border: 3px solid rgb(221, 221, 226);
+    font-size: large;
+}
