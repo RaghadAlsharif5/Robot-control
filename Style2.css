@@ -2,7 +2,7 @@
 body{
     background-image: url(background2.jpg);
     background-repeat: no-repeat;
-  background-size:cover;}
+    background-size:cover;}
 
 h1{
     font-family: 'Courier New', Courier, monospace;
@@ -34,7 +34,6 @@ h1{
 .button2{
    
 margin: auto;
-   
 margin-top: 4%;
 margin-bottom: 4%;
 width: 20%;
@@ -49,6 +48,7 @@ border-radius: 4px;
 #Stop{
     border: 2px solid rgb(230, 76, 76); 
 }
+
 .button:hover ,.button2:hover
 {
     background-color:  rgb(221, 221, 226);
