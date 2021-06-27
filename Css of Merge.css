@@ -1,0 +1,112 @@
+body{
+    
+    background-color: rgb(2, 30, 44);
+}
+
+
+h1{
+font-family: 'Courier New', Courier, monospace;
+font-weight: bolder;
+font-size:xx-large;
+text-align: center;
+color:white;
+margin-top: 2%;
+margin-bottom: 1%;
+
+
+
+}
+form{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    
+   
+}
+
+
+.Motor{
+    margin-bottom: 15px;
+}
+
+#save{
+font-weight: bolder;
+margin-right: 10px;
+font-size: larger;
+background-color: rgb(158, 175, 206);
+border: 1px solid rgb(132, 159, 207);
+
+}
+
+#on  {
+   
+font-weight: bolder;
+font-size: larger;
+margin-right: 10px;
+background-color: rgb(140, 196, 154);
+border: 1px solid rgb(133, 190, 122);
+}
+#off{
+    font-weight: bolder;
+font-size: larger;
+background-color: rgb(243, 159, 159);
+border: 1px solid rgb(211, 114, 127);
+}
+
+.container{
+    background-color: rgb(251, 253, 255);
+}
+
+
+.button
+{
+    border-radius: 4px;
+    margin-left: 20%;
+    background-color:white;
+    color: black;
+    border: 2px solid rgb(15, 15, 199); 
+    width: 60%; 
+    padding: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+  
+
+}
+.button2{
+  
+    color: black;
+    border: 2px solid rgb(15, 15, 199);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 4px;
+    background-color:white;
+
+    margin: auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    width: 30%; 
+    padding: 1.5%;
+
+}
+#Stop{
+    border: 2px solid rgb(230, 76, 76); 
+}
+.button:hover ,.button2:hover
+{
+    background-color:  rgb(221, 221, 226);
+    border: 3px solid rgb(221, 221, 226);
+    font-size: large;
+}
+
+
+#containerform1{
+
+margin-top: 30%;
+
+
+}
+
+#containerform2{
+
+  margin-left: 10%;
+    
+    }
