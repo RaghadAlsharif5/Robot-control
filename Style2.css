@@ -1,8 +1,9 @@
 
-body{
+ 
+ body{
     background-image: url(background2.jpg);
     background-repeat: no-repeat;
-    background-size:cover;}
+  background-size:cover;}  
 
 h1{
     font-family: 'Courier New', Courier, monospace;
@@ -23,8 +24,7 @@ h1{
     background-color:white;
     color: black;
     border: 2px solid rgb(15, 15, 199); 
-    height: 100%;
-    width: 40%;
+    width: 40%; 
     padding: 5%;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
@@ -32,23 +32,24 @@ h1{
 
 }
 .button2{
-   
-margin: auto;
-margin-top: 4%;
-margin-bottom: 4%;
-width: 20%;
-padding: 1.5%;
-color: black;
-border: 2px solid rgb(15, 15, 199);
-font-family: 'Courier New', Courier, monospace;
-font-weight: bolder;
-border-radius: 4px;
+  
+    color: black;
+    border: 2px solid rgb(15, 15, 199);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 4px;
+    background-color:white;
+
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 20%; 
+    padding: 1.5%;
 
 }
 #Stop{
     border: 2px solid rgb(230, 76, 76); 
 }
-
 .button:hover ,.button2:hover
 {
     background-color:  rgb(221, 221, 226);
