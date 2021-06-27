@@ -13,4 +13,4 @@ _This repository is about creating a control panel web page To control the movem
 1. html file : index of Merge.html
 2. Css file : Style of Merge.css
 3. 2 php file : php.php and php2.php
-4. 2 database file : DB2.sql AND DB1.sql
+4. 2 database file : DB2.sql and DB1.sql
