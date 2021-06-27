@@ -3,10 +3,10 @@
 
 _This repository is about creating a control panel web page To control the movement of the robot and **Here is the list of files:**_
 
- 1.html file :index2.html
- 2.Css file : Style.css
- 3.php file : index2.php
- 4.database : robot_control.sql
+ 1. html file :index2.html
+ 2. Css file : Style.css
+ 3. php file : index2.php
+ 4. database : robot_control.sql
 
  _the second task of merage the panel control 1 & 2**and Here is the list of files** :_
 
